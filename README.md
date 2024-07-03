@@ -23,3 +23,10 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository
    ```sh
    git clone https://github.com/the-anuj-23/netflix-clone.git
+
+
+ANUJ SUTHAR - anujsuthar242@gmail.com
+
+Linkedin - https://www.linkedin.com/in/anuj-suthar-583995210/
+
+Github - https://github.com/the-anuj-23/
