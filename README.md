@@ -4,6 +4,14 @@ This is a Netflix clone project created using only HTML and CSS. The aim of this
 
 ![Netflix Clone](https://github.com/the-anuj-23/Netflix-Clone/assets/137100246/c805afdc-14de-4f2d-be9d-b19f6fdeeb6c)
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Contact](#contact)
+
 ## Features
 
 - Responsive design
@@ -24,7 +32,7 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    git clone https://github.com/the-anuj-23/netflix-clone.git
 
-
+## Contact
 ANUJ SUTHAR - anujsuthar242@gmail.com
 
 Linkedin - https://www.linkedin.com/in/anuj-suthar-583995210/
